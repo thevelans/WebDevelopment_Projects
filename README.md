@@ -2,7 +2,7 @@
 
 A semantic, accessible personal profile/portfolio page built to practice HTML5 structure and accessibility fundamentals.
 
-🔗 **Live Demo:** [https://github.com/thevelans/WebDevelopment_Projects]
+🔗 **Live Demo:** [https://thevelans.github.io/WebDevelopment_Projects/profilePage/]
 
 ## What it does
 
